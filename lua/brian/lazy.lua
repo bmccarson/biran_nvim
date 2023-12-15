@@ -16,7 +16,7 @@ require("lazy").setup({
     {import = "brian.plugins.lsp"}
 }, {
     install = {
-        colorscheme = { "nightfly" },
+        colorscheme = { " tokyonight " },
     },
     checker = {
         enabled = true,
